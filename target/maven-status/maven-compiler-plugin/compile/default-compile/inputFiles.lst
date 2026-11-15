@@ -1,0 +1,15 @@
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/OrdemservicoApplication.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/controller/ClienteController.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/controller/OrdemServicoController.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/controller/TecnicoController.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/enums/Prioridade.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/enums/StatusOS.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/model/Cliente.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/model/OrdemServico.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/model/Tecnico.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/repository/ClienteRepository.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/repository/OrdemServicoRepository.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/repository/TecnicoRepository.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/service/ClienteService.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/service/OrdemServicoService.java
+/Users/andrei/Documents/ordem-servico/src/main/java/com/exemplo/ordemservico/service/TecnicoService.java
